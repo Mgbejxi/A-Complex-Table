@@ -21,6 +21,9 @@ table, th, td {
     font-size: 1.8rem;
   }
     
-    
+    img {
+        width: 100%;
+        max-width: 960px;
+    }
   
   
