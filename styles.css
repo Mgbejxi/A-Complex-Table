@@ -21,6 +21,14 @@ table, th, td {
     font-size: 1.8rem;
   }
     
-    
+    img {
+        width: 100%;
+        max-width: 960px;
+    }
+
+    #tyt {
+        width: 100%;
+        max-width: 640px;
+    }
   
   
